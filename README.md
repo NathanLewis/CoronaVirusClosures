@@ -1,0 +1,2 @@
+# CoronaVirusClosures
+Hackathon challenge
